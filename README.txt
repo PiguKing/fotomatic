@@ -1,0 +1,1 @@
+Fix Fotomatic Broken Code
